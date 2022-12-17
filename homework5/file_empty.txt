@@ -1,11 +1,4 @@
 #include <iostream>
-
-/*
-Павлов Егор. Наследование классов.
-Реализованы три класса: Product(базовый для остальных), Buy(базовый для Check) и
- Check. 
- */
-
 class Product{
 private:
   std::string name;
